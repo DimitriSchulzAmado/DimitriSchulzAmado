@@ -20,6 +20,7 @@ ________________________________________________________________________________
   
 ### Main skills:
 ![C++](https://img.shields.io/badge/-C++-0D1117?style=for-the-badge&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0D1117?style=for-the-badge&logo=md&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-0D1117?style=for-the-badge&logo=arduino&Color=006d70&labelColor=0D1117)&nbsp;
 
 
