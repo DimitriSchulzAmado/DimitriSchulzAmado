@@ -1,4 +1,5 @@
-_______________________________________________________________________________________________________________________________________________________________________
+<h1 align="center">Hi 👋, I'm Dimitri Schulz Amado</h1>
+<h3 align="center">Graduating in Software Engineering at Inatel.</h3>
 
 <div align="center">  
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=DimitriSchulzAmado&show_icons=true&count_private=true&hide_border=true&title_color=FF4D00&icon_color=007FFF&text_color=c9d1d9&bg_color=0d1117" alt="Dimitri github stats" /> 
@@ -18,22 +19,17 @@ ________________________________________________________________________________
  </div>
 
     
-### Main skills:
+<h3 align="left">Languages and Tools:</h3>
 <div style="display: inline_block"><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" align="center" height="50" width="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" align="center" height="50" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" align="center" height="50" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" align="center" height="50" width="60"/>
- </div>
-
-### Studying in this moment:
-<div style="display: inline_block padding-left="10px""><br>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align="center" height="50" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" align="center" height="50" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" align="center" height="50" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" align="center" height="50" width="60"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" align="center" height="50" width="60"/>
-    
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css3" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>  
+    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
 </div>
 
 <div align="center">
