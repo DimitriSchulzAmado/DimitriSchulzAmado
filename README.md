@@ -17,7 +17,6 @@
     <img src="https://www.vectorlogo.zone/logos/jquery/jquery-icon.svg" alt="jquery" width="50" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="50" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/>  
-    <img src="https://www.vectorlogo.zone/logos/arduino/arduino-official.svg" alt="arduino" width="50" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="40"/>
 </div>
