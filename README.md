@@ -19,6 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/>  
     <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="40"/>
     <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="50" height="40"/>
 </div>
 
 <div align="center">
