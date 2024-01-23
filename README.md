@@ -20,8 +20,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="40"/>  
 </div>
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{DimitriSchulzAmado}/count.svg" /></p> 
-<br>
-</div>
