@@ -110,31 +110,31 @@ Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Conc
     title="Vue"
     width="30"
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/vuejs/vuejs-icon.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django" 
-    width="30"
-    style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-icon.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg"
 />
 <img 
     align="left" 
     alt="MySQL" 
     title="MySQL" 
     width="30"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL" 
+    width="30"
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-/>  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 <img 
     align="left"
     alt="Java" 
     title="Java"
     width="30"
     style="padding-right: 10px;" 
-    src="https://www.vectorlogo.zone/logos/java/java-icon.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
 />
 <img 
     align="left" 
@@ -142,8 +142,8 @@ Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Conc
     title="C++"
     width="30"
     style="padding-right: 10px;" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" 
-/>  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" 
+/>
 
 <br/>
 <br/>
