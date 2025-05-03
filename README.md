@@ -3,7 +3,7 @@
 
 
 
-Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CEP Brazópolis, com o curso Técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no INATEL. Sou apaixonado por tecnologia e compartilho meu conhecimento através do meu canal no Tik Tok, onde ensino partes mais teóricas sobre desenvolvimento, arquitetura e desenho de software.
+Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CEP Brazópolis, com o curso Técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no INATEL. Sou apaixonado por tecnologia e viagens de moto.
 
 <p align="left">
 <!--     <a href="">
