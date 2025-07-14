@@ -3,7 +3,7 @@
 
 
 
-Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Concluí o ensino médio no CEP Brazópolis, com o curso Técnico em Eletrônica. Atualmente, estou cursando Engenharia de Software no INATEL. Sou apaixonado por tecnologia e viagens de moto.
+Me chamo Dimitri Schulz Amado, tenho 22 anos e sou natural de Minas Gerais. Sou técnico em eletrônica e atualmente, estou cursando Engenharia de Software no INATEL.
 
 ---
 
@@ -32,22 +32,6 @@ Me chamo Dimitri Schulz Amado, tenho 21 anos e sou natural de Minas Gerais. Conc
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Django" 
-    title="Django" 
-    width="30"
-    style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="SQL" 
-    title="SQL" 
-    width="30"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
 />
 
 <br/>
