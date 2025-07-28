@@ -1,8 +1,8 @@
 # 👨‍💻 Olá, eu sou o Dimitri!
 
 <p align="left">
-Engenheiro de Software em formação, comprometida a criar soluções modernas, funcionais e com propósito. <br>
-Tenho focado meus estudos em <strong>Python</strong>, <strong>Flask</strong> e <strong>AI</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
+Engenheiro de Software em formação, comprometido a criar soluções modernas, funcionais e com propósito. <br>
+Tenho focado meus estudos em <strong>Python</strong>, <strong>Flask</strong> e <strong>Inteligência Artificial</strong>, com o objetivo de transformar cada aprendizado em projetos reais ao longo da minha jornada em Engenharia de Software.
 </p>
 
 ## Sobre mim
@@ -45,7 +45,7 @@ Tenho focado meus estudos em <strong>Python</strong>, <strong>Flask</strong> e <
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Sou formada como <strong>Técnica em Eletrõnica</strong> pelo CEP-Brasópolis e atualmente curso o <strong>8º período de Engenharia de Software</strong> no INATEL. <br><br>
+  Sou formado como <strong>Técnica em Eletrõnica</strong> pelo CEP-Brasópolis e atualmente curso o <strong>8º período de Engenharia de Software</strong> no INATEL. <br><br>
   Tenho me aprofundado em <strong>Python</strong>, com foco em <strong>Flask e Django</strong>. Também venho explorando tecnologias como <strong>Java</strong>, <strong>Spring Boot</strong>, <strong>PostgreSQL</strong>, <strong>MySQL</strong> e <strong>Docker</strong>, aplicando esses conhecimentos em projetos acadêmicos e pessoais que fazem parte do meu portfólio. <br><br>
   Acredito que aprender construindo é o melhor caminho, e por isso transformo teoria em prática sempre que possível 🚀
 </p>
