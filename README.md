@@ -57,7 +57,7 @@ Tenho focado meus estudos em <strong>Python</strong>, <strong>Flask</strong> e <
 </p>
 
 <p align="left">
-  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram! 💌✨
+  Vamos nos conectar? Me envie um e-mail, me siga no LinkedIn ou confira meu conteúdo no Instagram!
 </p>
 
 <p align="left">
@@ -71,6 +71,10 @@ Tenho focado meus estudos em <strong>Python</strong>, <strong>Flask</strong> e <
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=DimitriSchulzAmado.DimitriSchulzAmado&left_color=gray&right_color=green" width="80" />
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=DimitriSchulzAmado&theme=github-dark&hide_border=true"/>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:FFA500"/>
